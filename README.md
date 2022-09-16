@@ -25,10 +25,13 @@ Multilingual MBA graduate, [On Purpose Fellow](https://onpurpose.org/en/) and, n
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Project | Description | Timeline | Contributors | Technologies | 
+| :--- | :--- | :--- | :--- | :--- |  
+| [Ratify](https://github.com/EvSivtsova/ratify) | An app enabling owners of exotic pets to quickly access information on how to take of their pets and view maps with suitable vets and shops. Designed for further growth of animal coverage. | 2 days - planning and exploring new technology (React Native, map and web scrapping APIs) <br> 5 days - coding <br> 2 days - finalising and presenting | [Arsenii](https://github.com/Agabov123) <br> [Delphine](https://github.com/delphiine) <br> [Joe](https://github.com/Joseph-ER) <br> myself | JavaScript, Node, Express, MongoDB, React Native | 
+| [Guilded rose](https://github.com/EvSivtsova/guilded_rose_tech_test) | The program for a retail shop allowing for better inventory management. Easily modifiable in case of specifications' change | 2 days | myself | Ruby | 
+
+
+
 
 ## Skills
 TO UPDATE WITH THE LATEST AND CHANGE SKILLSET
