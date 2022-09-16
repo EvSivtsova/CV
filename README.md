@@ -1,10 +1,27 @@
-## Evgenia Sivtsova
+<h1 align="center">Evgenia Sivtsova</h1>
 
-I am a purpose driven professional with seven years’ experience in sustainable business consulting, project management and marketing within a range of industries.  Diverse skills in reporting, presenting and project-management with cross-cultural perspective. Multilingual MBA graduate and On Purpose Fellow. I also have four years' experience in meditation coaching helping people to identify what holds them back from achieving their objectives and how to overcome self-limiting beliefs.
+[About me](#about-me) | [Tech stack](#tech-stack) | Projects | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-I'm currently learning to code in Makers Academy, an intensive 16 weeks computer programming bootcamp. 
+## About me
 
-Objective is to leverage communications and strategy expertise to foster change towards sustainable business practices.
+My name is Ev. I'm a Software Developer with background in sustainability consulting and marketing. Being primarily value-driven, I'm focusing on finding solutions to the challenges our society is facing. 
+
+Technology plays a key role in the solution mix: from better informing our decision making process to directly helping us to reduce our impact on the environment. And as evidenced by the last couple of years, technology is essential in helping us to connect and making it easier for us to live fulfilling and impactful lives. 
+
+Hence, I’m here, working towards a more sustainable future and, simply, having fun. :upside_down_face:
+
+I have seven years’ experience in sustainable business consulting, project management and marketing within a range of industries, which enabled me to develop diverse skills in reporting, presenting and project-management. I also spent four years supporting people in adopting better meditation and mindfulness practice. Being able to understand what others might be experiencing, as well as my own reactions, makes me a flexible team player when working with internal or external stakeholders.
+
+Multilingual MBA graduate, [On Purpose Fellow](https://onpurpose.org/en/) and, now, a [Maker](https://makers.tech/), I'm looking for new and exciting problem solving adventures for the challenges we are facing today and in future. 
+
+## Tech Stack
+
+* Backend and middleware: Ruby, Sinatra, JavaScript, Node, Express
+* Frontend: React Native, Handlebars, HTML, CSS
+* Testing: Rspec, Jest, Cypress
+* Databases: PostgreSQL, MongoDB, TablePlus
+* Cloud platform: Heroku, Mongo Atlas
+* GitHub
 
 ## Projects
 
@@ -13,7 +30,7 @@ Objective is to leverage communications and strategy expertise to foster change 
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Work Experience
+## Experience
 
 **Self-employed** (Feb 2016 to Mar 2020)  
 _Mindfulness and Meditation Coach_
@@ -114,7 +131,9 @@ Master’s and Bachelor’s Degree in Strategic Management
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Interests
 
-Diving, snowboarding, reading, travelling, meditation.
-I am a huge fan of the Huberman Lab Podcast on neuroscience and science-based tools for better health and wellbeing. 
+* Most likely, I'm currently learning something new:  diving, snowboarding, drawing, piano (currently on Grade 4). :musical_score:
+* I'm also learning how to parent two wonderful children. It is continuous process. :hatching_chick: :books: :badminton:
+* I love discovering new places, new experiences and new ideas. Travel, reading and meditation are my three go to tools in that area. :earth_africa:
+* I am a huge fan of the [Huberman Lab](https://hubermanlab.com/) Podcast on neuroscience and science-based tools for better health and wellbeing.:nerd_face:
