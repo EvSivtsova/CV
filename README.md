@@ -12,16 +12,19 @@ Hence, I’m here, working towards a more sustainable future and, simply, having
 
 I have seven years’ experience in sustainable business consulting, project management and marketing within a range of industries, which enabled me to develop diverse skills in reporting, presenting and project management. I also spent four years supporting people in adopting better meditation and mindfulness practices. Being able to understand what others might be experiencing, as well as my own reactions, makes me a flexible team player when working with internal or external stakeholders.
 
-Multilingual MBA graduate, [On Purpose Fellow](https://onpurpose.org/en/) and, now, a [Maker](https://makers.tech/), I'm looking for new and exciting real problem solving adventures. 
+Multilingual MBA graduate, [On Purpose Fellow](https://onpurpose.org/en/) and, now, a [Maker](https://makers.tech/), I'm looking for new and exciting real-life problem-solving adventures. 
 
-## Tech Stack
+## Technical experience
 
+* Object-oriented design, test-driven development
+*	Agile methodologies, user stories, Trello board
 * Backend and middleware: Ruby, Sinatra, JavaScript, Node, Express
 * Frontend: React Native, Handlebars, HTML, CSS
 * Testing: Rspec, Jest, Cypress
 * Databases: PostgreSQL, MongoDB, TablePlus
 * Cloud platform: Heroku, Mongo Atlas
-* GitHub, VSCode, WSL2, MacOS
+* GitHub, VSCode, MacOS, WSL2
+* UI and UX Design, creating wireframes, Figma, Excalidraw
 
 ## Projects
 
@@ -30,35 +33,36 @@ Multilingual MBA graduate, [On Purpose Fellow](https://onpurpose.org/en/) and, n
 | [Ratify](https://github.com/EvSivtsova/ratify) | An app enabling owners of exotic pets to quickly access information on how to take of their pets and view maps with suitable vets and shops. Designed for further growth of animal coverage. | 2 days - planning and exploring new technology (React Native, map and web scrapping APIs) <br> 5 days - coding <br> 2 days - finalising and presenting | [Arsenii](https://github.com/Agabov123) <br> [Delphine](https://github.com/delphiine) <br> [Joe](https://github.com/Joseph-ER) <br> myself | JavaScript, Node, Express, MongoDB, React Native | 
 | [Guilded rose](https://github.com/EvSivtsova/guilded_rose_tech_test) | The program for a retail shop allowing for better inventory management. Easily modifiable in case of specifications' change | 2 days | myself | Ruby | 
 
-
 For a complete list, see my [GitHub](https://github.com/EvSivtsova?tab=repositories).
 
 ## Skills
 
-#### Problem-solving
-* Consulted organisations of various sizes and various type (business, social enterprise, charities, start-ups) on a range of issues, related to their business and sustainability performance.
-* Managed BITC's Advisory Services team at the time of the strategic review and temporary staff shortage, which involved securing the delivery of all agreed projects, managing team's performance while ensuring their wellbeing, recruiting for available positions, as well as reviewing our capacity management and budgeting tools, further developing client pipeline, contributing to and overseeing the delivery of the projects.
-* Built business cases for different company projects, including social enterprise support, volunteering, recycling, stakeholder engagement, business goods or services. 
-
 #### Project management
-* Developed the framework and online platform to assess the impact of the Santander Social Enterprise Development Awards (SEDA), including researching best practices, developing and testing the KPI framework, engaging the stakeholders, developing user journey, selecting and briefing the software development supplier, and overviewing the process of building an online platform to collect and analyse the data.
-* Led marketing for over 80 annual events at Informa including creating and implementing marketing plan, managing resources, monitoring and analysing campaign results. 
-* Organised a celebration event for SEDA winners at Santander including developing event’s strategy, developing and executing the project plan, working with event speakers on presentation content and format, creating marketing collateral and procuring from social enterprises for the event.
+As part of my career, I had an opportunity to manage projects for organisations of various sizes and different types. Each project involved detailed planning, breaking down activities into executable tasks, identifying interdependencies between these tasks, assigning them to internal and external stakeholders, and ensuring that there are regular communications between myself and stakeholders. Often, I had to adapt the project plan depending on the execution of individual tasks. 
 
-#### Stakeholder engagement	and communications
-* Engaged internal and external stakeholders relevant to my projects including developing stakeholder engagement strategy, securing projects’ presence at relevant events, engaging stakeholders using different techniques such as interviewing, surveying and presenting. 
-* Collaborated across multicultural cross-functional teams to ensure timely and on-budget execution of projects and tasks in Europe, North America, UAE, CIS countries and Asia.
-* Represented companies at internal and external events, including meetings, working groups, exhibitions and one workshop.
+For example, I managed the delivery of a project for a large infrastructure organization. We were developing a framework, tools and metrics the company would use when selecting their suppliers based on sustainability performance. At the research stage, we discovered opportunities to bring additional value to the client. I reviewed our approach and our capacity to deliver, which involved adjusting the delivery of other team projects, renegotiated the costs with the client and secured their approval. As a result, we were able to deliver more value to the client, as well as building additional expertise within the team, and all of this while being on track with other projects that the team was undertaking at that time.
+
+This experience proved to be useful at the Makers, as I was able to easily familiarize myself with agile methodologies, such as Kanban board, user stories, ticketing and agile ceremonies, to deliver our team projects. Being able to get used to agile methods quickly helped me to focus on my coding objectives and also better support others.
+
+#### Team player
+Throughout my career I collaborated across multicultural cross-functional teams to ensure timely and on-budget execution of projects and tasks in Europe, North America, UAE, CIS countries and Asia. I worked successfully with remote and face-to-face team members. As part of the delivery of the SEDA programme at Santander.....
+At the Makers We had to work together, often remotely, to build functioning applications, while also learning programming languages. 
+
+#### Fast Learner
+During our last two weeks at Makers, we had an opportunity to work on a project of our choice. My team got quite excited by the idea of creating a mobile application that allows owners of exotic pets such as rats to find out safe foods, local vets, and upcoming animal events. We decided to use React Native as part of the MERN stack to create a user-friendly app on iOS and Android. None of us had any experience with React or React Native. So we had quite a lot of challenges from setting up the project and building modular React components to connecting the front end and the back end of the app to ensure smooth and reliable data transfer. 
+
+To familiarize myself with React syntax and particularities of React Native, I used resources available on React Native website. I also used online tutorials to practice basic concepts and read the developer documentation on MongoDB website and relevant React Native libraries. As a team, we shared the information we found useful and how we tackled some of the challenges we were facing. With additional support of Makers’ coaches, in under two weeks we managed to build a great-looking prototype of an app, which could be easily scaled up if required. Instead of having only a rat as our choice animal, we were able to add information on guinea pigs and tigers in one day only.
 
 ## Experience
 
-#### Consultant, London, UK (voluntary)	(09/2022 - Current)
-* Consulting a _tech-for-good entrepreneur_ on user experience prior to app development.
+#### Technology Consultant, London, UK (voluntary)	(09/2022 - Current)
+* Consulting a _tech entrepreneur_ (online marketplace) on user experience prior to app development.
+*	Developing wireframes using Figma, compiling a list of APIs and suggestions for tech stack.
 
 #### Self-employed, London, UK (02/2016 - 03/2020)  
 _Mindfulness and Meditation Coach_
 * Worked one-on-one with clients to identify and overcome self-limiting beliefs.
-* Designed the website and service offer, developed the content and communications.
+* Designed the website using WordPress and its appointment and booking plugin.
 
 #### Business in the Community, London, UK (06/2013 - 02/2016)  
 _Head of Advisory, Operations_ for the largest UK charity promoting responsible business<br>
