@@ -1,6 +1,6 @@
 <h1 align="center">Evgenia Sivtsova</h1>
 
-[About me](#about-me) | [Tech stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[About me](#about-me) | [Technical experience](#technical-experience) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 ## About me
 
@@ -10,7 +10,7 @@ Technology plays a key role in the solution mix: from better informing our decis
 
 Hence, I’m here, working towards a more sustainable future and, simply, having fun. :upside_down_face:
 
-I have seven years’ experience in sustainable business consulting, project management and marketing within a range of industries, which enabled me to develop diverse skills in reporting, presenting and project management. I also spent four years supporting people in adopting better meditation and mindfulness practices. Being able to understand what others might be experiencing, as well as my own reactions, makes me a flexible team player when working with internal or external stakeholders.
+I have seven years’ experience in sustainable business consulting, project management and marketing within a range of industries, which enabled me to develop diverse skills in project delivery, design of decision-making tools and frameworks, and reporting. I also spent four years supporting people in adopting better meditation and mindfulness practices. Being able to understand what others might be experiencing, as well as my own reactions, makes me a flexible team player when working with internal or external stakeholders.
 
 Multilingual MBA graduate, [On Purpose Fellow](https://onpurpose.org/en/) and, now, a [Maker](https://makers.tech/), I'm looking for new and exciting real-life problem-solving adventures. 
 
@@ -23,7 +23,7 @@ Multilingual MBA graduate, [On Purpose Fellow](https://onpurpose.org/en/) and, n
 * Testing: Rspec, Jest, Cypress
 * Databases: PostgreSQL, MongoDB, TablePlus
 * Cloud platform: Heroku, Mongo Atlas
-* GitHub, VSCode, MacOS, WSL2
+* GitHub, VSCode, APis, Postman
 * UI and UX Design, creating wireframes, Figma, Excalidraw
 
 ## Projects
@@ -38,102 +38,85 @@ For a complete list, see my [GitHub](https://github.com/EvSivtsova?tab=repositor
 ## Skills
 
 #### Project management
-As part of my career, I had an opportunity to manage projects for organisations of various sizes and different types. Each project involved detailed planning, breaking down activities into executable tasks, identifying interdependencies between these tasks, assigning them to internal and external stakeholders, and ensuring that there are regular communications between myself and stakeholders. Often, I had to adapt the project plan depending on the execution of individual tasks. 
+As part of my career, I had an opportunity to manage projects for organisations of various sizes and different types. Each project involved detailed planning, breaking down activities into executable tasks, identifying interdependencies between these tasks, assigning them to internal and external stakeholders, and ensuring regular communications between the team members. Project plans had to be adapted regularly to reflect the execution of individual steps adn new information, which sometimes involved reallocation of resources and reviewing other delivery plans I was responsible for. 
 
-For example, I managed the delivery of a project for a large infrastructure organization. We were developing a framework, tools and metrics the company would use when selecting their suppliers based on sustainability performance. At the research stage, we discovered opportunities to bring additional value to the client. I reviewed our approach and our capacity to deliver, which involved adjusting the delivery of other team projects, renegotiated the costs with the client and secured their approval. As a result, we were able to deliver more value to the client, as well as building additional expertise within the team, and all of this while being on track with other projects that the team was undertaking at that time.
-
-This experience proved to be useful at the Makers, as I was able to easily familiarize myself with agile methodologies, such as Kanban board, user stories, ticketing and agile ceremonies, to deliver our team projects. Being able to get used to agile methods quickly helped me to focus on my coding objectives and also better support others.
-
-#### Team player
-Throughout my career I collaborated across multicultural cross-functional teams to ensure timely and on-budget execution of projects and tasks in Europe, North America, UAE, CIS countries and Asia. I worked successfully with remote and face-to-face team members. As part of the delivery of the SEDA programme at Santander.....
-At the Makers We had to work together, often remotely, to build functioning applications, while also learning programming languages. 
+My project management experience proved to be useful at the Makers, as I was able to easily familiarize myself with agile methodologies, such as Kanban board, user stories, ticketing and agile ceremonies, which we used to deliver our team projects. Being able to get used to agile methods quickly helped me to focus on my coding objectives and also offering better support to others if required.
 
 #### Fast Learner
-During our last two weeks at Makers, we had an opportunity to work on a project of our choice. My team got quite excited by the idea of creating a mobile application that allows owners of exotic pets such as rats to find out safe foods, local vets, and upcoming animal events. We decided to use React Native as part of the MERN stack to create a user-friendly app on iOS and Android. None of us had any experience with React or React Native. So we had quite a lot of challenges from setting up the project and building modular React components to connecting the front end and the back end of the app to ensure smooth and reliable data transfer. 
+During our last two weeks at Makers, we had an opportunity to work on a project of our choice. My team got quite excited by the idea of creating a [mobile application](https://github.com/EvSivtsova/ratify) that allows owners of exotic pets, such as rats, to get faster access to information needed to take good care of the animals. We decided to use React Native as part of the MERN stack to create a user-friendly app on iOS and Android. None of us had any experience with React or React Native. So we had quite a lot of challenges ranging from setting up the project and building modular React components to connecting the front end and the back end of the app to ensure smooth and reliable data transfer. 
 
-To familiarize myself with React syntax and particularities of React Native, I used resources available on React Native website. I also used online tutorials to practice basic concepts and read the developer documentation on MongoDB website and relevant React Native libraries. As a team, we shared the information we found useful and how we tackled some of the challenges we were facing. With additional support of Makers’ coaches, in under two weeks we managed to build a great-looking prototype of an app, which could be easily scaled up if required. Instead of having only a rat as our choice animal, we were able to add information on guinea pigs and tigers in one day only.
+To familiarize myself with React syntax and React Native features, I used resources available on React Native website. I also made the most of online tutorials to practice basic concepts and read the developer documentation on MongoDB website and relevant React Native libraries. As a team, we shared the information we found useful and how we tackled some of the challenges we were facing. With additional support of Makers’ coaches, in under two weeks we managed to build a great-looking prototype of an app, which could be easily scaled up if required. Instead of having only a rat as our choice animal, we were able to add information on guinea pigs and tigers in one day only.
+
+#### Team player
+Throughout my career I had an opportunity to collaborate across multicultural cross-functional teams to ensure timely and on-budget execution of projects and tasks in Europe, North America, UAE, CIS countries and Asia. I worked successfully with remote and face-to-face team members to deliver the majority of my projects.
+
+This experience was very helpful at Makers, as we paired every afternoon to learn how to pair effectively. And when working on team projects, we had regular StandUps and Reviews to make sure we can build functioning applications. During these meetings I made sure that we were using our time wisely, by identifying the focus of the meeting and ensuring the clarify of the tasks discussed. I also took responsibility for some of not-so-popular tasks, such setting up databases, including Many-to-Many tables for an experimentary [AirBNB clone](https://github.com/EvSivtsova/makersbnb), in all three team projects and took care of the project setup for [Ratify](https://github.com/EvSivtsova/ratify).
 
 ## Experience
 
-#### Technology Consultant, London, UK (voluntary)	(09/2022 - Current)
-* Consulting a _tech entrepreneur_ (online marketplace) on user experience prior to app development.
+**Technology Consultant, London, UK (voluntary)	(09/2022 - Current)**<br>
+_Tech entrepreneur (online marketplace)_
+* Consulting on user experience prior to app development.
 *	Developing wireframes using Figma, compiling a list of APIs and suggestions for tech stack.
 
-#### Self-employed, London, UK (02/2016 - 03/2020)  
+**Self-employed, London, UK (02/2016 - 03/2020)**<br>
 _Mindfulness and Meditation Coach_
 * Worked one-on-one with clients to identify and overcome self-limiting beliefs.
-* Designed the website using WordPress and its appointment and booking plugin.
+* Designed the website using WordPress and its appointment and booking plugins.
 
-#### Business in the Community, London, UK (06/2013 - 02/2016)  
+**Business in the Community, London, UK (06/2013 - 02/2016)**  
 _Head of Advisory, Operations_ for the largest UK charity promoting responsible business<br>
 Promoted from _Advisory Services Manager, Strategic Advice & Solutions_ in 06/2014<br>
 
-* Held responsibility for securing new business opportunities and bringing in £100,000 in revenues. 
-* Managed relationships with existing clients (director level, middle management and practitioners).
-* Managed a team of five, including managing performance and ensuring high standards of work delivered.
 * Lead on the delivery of advisory services through contextual review, stakeholder interviews, benchmarking, roadmap development, implementation planning and developing decisions making tools.
-* Industries served included utilities, rail, construction, retail, insurance, legal and financial services.
-* Areas of focus: senior leadership engagement, building the case for responsible business and mega-trends, integrating sustainability in business, supply chain and reporting.<br>
+* Managed cross-functional delivery teams made of internal and external talents.
+* Areas of focus: integrating sustainability in business, supply chain and reporting, senior leadership engagement, building the case for responsible business and mega-trends.
+* Developed capacity and budget management tools to streamline advisory processes.<br>
 
-Key internal projects include:
-* Participated in strategic review, including reviewing pricing of the CR Index, undertaking competitor analysis and clarifying team’s vision and positioning.
-* Co-led CR Academy's 'Change Management' course
-* Undertook scenario planning to create financial projections, best allocation of resources and product mix.
-* Developed capacity and budget management tools to streamline advisory processes.
-
-#### **Volans**, London, UK (05 - 06/2013)  
+**Volans, London, UK (05 - 06/2013)**<br>
 _Freelance Consultant_ for social innovation consultancy and think-tank
 
-* Consulted an ICT multinational to leverage its knowledge platform to encourage social entrepreneurship.
+* Consulted an ICT multinational to leverage its knowledge platform to encourage social entrepreneurship, including reviewing existing content, UX design and suggesting content suitable for social entrepreneurs.
 * Reviewed a thought leadership report for a leading engineering consultancy.
 
-#### **Santander UK**, London, UK (07/2012 - 02/2013)     		          
+**Santander UK, London, UK (07/2012 - 02/2013)** 		          
 _Senior Manager, CSR_ for one of the world’s largest banks
 
-Led on the impact assessment of the Social Enterprise Development Awards (SEDA):
-* Developed impact assessment framework and designed supporting processes.
-* Created an online platform to collect and analyse the impact data including identifying criteria and designing reports, selecting supplier and overseeing the development of the platform.
-* Wrote the SEDA Impact report for 2012.
-* Organised a celebration event for SEDA winners including creating and executing the project plan, developing event programme, securing speakers, marketing and procuring for the event.
-* Oversaw one judging panel, wrote six press releases and participated in strategic review of SEDA.
-* Represented CSR team at internal events to raise awareness and engage staff.
+Led on the delivery and impact assessment of the Social Enterprise Development Awards (SEDA):
+*	Project managed the delivery of the programme, including the development of the Gantt chart and managing internal and external stakeholders.
+*	Developed impact assessment framework, including KPIs, and designed supporting processes.
+*	Created an online platform to collect and analyze the impact data including designing UX and UI, selecting and working with full-stack developers on the delivery.
 
-#### **Telefónica UK (O2 UK)**, London, UK (01 - 06/2012)   
+**Telefónica UK (O2 UK), London, UK (01 - 06/2012)**<br> 
 _Social Enterprise and Sustainability Manager_ for leading telecommunication company
 
 Spearheaded sustainability efforts within the SMB team:
 * Managed recycling services offered to business customers including reviewing processes, developing value-proposition, undertaking analysis of business decisions and briefing the supplier.
 * Built the case to support social enterprises including estimating market size, developing marketing strategy and presenting to the SMB Marketing team.
 * Managed partnerships with The Guardian, Social Enterprise UK and Smarta including developing and executing marketing and communication plans and exploring mutually beneficial opportunities.
-* Participated in building the case for company-wide employee engagement, including identifying business benefits of volunteering, providing initial structure for the research and identifying data collection points.
-* Represented the team, O2 Think Big and O2 Recycle for Business at external and internal events.
 
-#### **On Purpose**, London, UK (01 - 12/2012)  
+**On Purpose, London, UK (01 - 12/2012)**<br>
 _Associate_ in a year-long programme that supports purpose-driven organisations
 * Placements at O2 and Santander (Listed above. Santander contract extended to eight months)
-* On Purpose training across different topics provided by a range of companies such as McKinsey, Bain & Co, Big Society Capital, Volans, UnLtd. Weekly training.
+* [On Purpose training](https://onpurpose.org/en/learning-and-development) across different topics related to impact and leadership provided by a range of companies such as McKinsey, Bain & Co, Big Society Capital, Volans, UnLtd. Weekly training.
 * Co-authored an article on social enterprise procurement for The Guardian Social Enterprise Network ["Talking the talk and walking the walk in social enterprise procurement"](https://www.theguardian.com/social-enterprise-network/2012/sep/13/social-enterprise-procurement-supply-chain), 13 Sep 2012
  
-#### **Informa plc, London, UK**      		          
+**Informa plc, London, UK**      		          
 _Freelance Marketing Manager_ of events business for multinational media company **(04 - 12/2011)**<br>
 _Senior Marketing Manager_ (promoted from _Marketing Manager_) **(07/2006 - 10/2008)**
 
-Led marketing for over 80 international and UK annual events with revenues of over £1,000,000:
+Led marketing for over 80 international and UK annual events with marketing budget of over £350,000 and revenues of over £1,000,000:
 * Devised, executed and analysed marketing plans covering direct and online marketing and social media.
-* Engaged senior stakeholders (sponsors and speakers) to raise events’ profile.
-* Built and managed business partnerships with over 20 media partners and associations.
-* Managed marketing budget of over £350,000.
+* Engaged external and internal stakeholders to raise events’ profile.
 * Mentored five co-workers through providing training and on-going support to ensure successful integration.
 
-#### **Nike**, Montreal, Canada (07 - 08/2010)                                                                                                                 
+**Nike, Montreal, Canada (07 - 08/2010)**                                                                                                              
 _External Consultant_ for sporting goods company
 
-Consulted Nike on sustainable market growth in Quebec including undertaking market research, developing consumer profile, estimating market scope and providing strategic recommendations. 
-
-#### **50 Lessons**, London, UK (01 - 04/2006)   		          
+**50 Lessons, London, UK (01 - 04/2006)**   		          
 _Marketing Executive_ for media start-up 
 
-#### **Reckitt Benckiser**, Moscow, Russia (03 - 04/2005) <br>   		          
+**Reckitt Benckiser, Moscow, Russia (03 - 04/2005)**          
 _Customer Service Representative_ for FMCG company 
 
 ## Education
