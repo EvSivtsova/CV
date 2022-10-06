@@ -23,7 +23,7 @@ Multilingual MBA graduate, [On Purpose Fellow](https://onpurpose.org/en/) and, n
 * Testing: Rspec, Jest, Cypress
 * Databases: PostgreSQL, MongoDB, TablePlus
 * Cloud platform: Heroku, Mongo Atlas
-* GitHub, VSCode, APis, Postman
+* GitHub, VSCode, APis, Postman, MacOS, WSL2
 * UI and UX Design, creating wireframes, Figma, Excalidraw
 
 ## Projects
@@ -50,7 +50,7 @@ To familiarize myself with React syntax and React Native features, I used resour
 #### Team player
 Throughout my career I had an opportunity to collaborate across multicultural cross-functional teams to ensure timely and on-budget execution of projects and tasks in Europe, North America, UAE, CIS countries and Asia. I worked successfully with remote and face-to-face team members to deliver the majority of my projects.
 
-This experience was very helpful at Makers, as we paired every afternoon to learn how to pair effectively. And when working on team projects, we had regular StandUps and Reviews to make sure we can build functioning applications. During these meetings I made sure that we were using our time wisely, by identifying the focus of the meeting and ensuring the clarify of the tasks discussed. I also took responsibility for some of not-so-popular tasks, such setting up databases, including Many-to-Many tables for an experimentary [AirBNB clone](https://github.com/EvSivtsova/makersbnb), in all three team projects and took care of the project setup for [Ratify](https://github.com/EvSivtsova/ratify).
+This experience was very helpful at Makers, as we paired every afternoon, mainly, remotely, to learn how to pair effectively. When working in teams, we also had regular Scrum meetings, during which I was making sure that we used our time wisely and ensured the clarity of the tasks discussed while also keeping it lighthearted and fun. I also took responsibility for some of the less popular tasks, such as setting up databases in all three team projects, including creating Many-to-Many relationships for an experimentary [AirBNB clone](https://github.com/EvSivtsova/makersbnb). In addition, I shared the information I found useful with my teammates. For example, having broken down the boilerplate we received for our [facebook clone](https://github.com/EvSivtsova/acebook-the-pyjamas), I explained to some of my teammates how middlewares work and how they can be used to check, for example, whether a user is authorized to use a specific route, and handle errors. I then used this knowledge to set up the project for our [Ratify](https://github.com/EvSivtsova/ratify) app.
 
 ## Experience
 
