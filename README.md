@@ -130,7 +130,7 @@ Full-time software development course:
 * Learned web frameworks, MVC, and CI/CD to create full stack web apps.
 * Used pair-programming in person and remotely as key learning technique.
 * Test-driven code based on user's requirements.
-* Learnt consistent debugging process to resolve issues (backend and frontend).
+* Learned consistent debugging process to resolve issues (backend and frontend).
 * Designed schemas with SQL and noSQL databases.
 * Deployed websites using a light cloud service such as Heroku.
 * Used agile methodologies to plan and deliver three team projects.
