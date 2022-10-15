@@ -124,6 +124,10 @@ _Customer Service Representative_ for FMCG company
 
 ## Education
 
+#### Google IT Support Professional Certificate (10/20022)
+Eight-month IT support program, developed by Google, that covers troubleshooting, customer service,
+networking, operating systems, system administration, and security, and includes hands-on labs
+
 #### Makers Academy, London, UK (05/2022-09/2022)
 Full-time software development course:
 * Learned SOLID principles and fundamentals of object-oriented languages: Ruby and Javascript.
