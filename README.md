@@ -71,10 +71,16 @@ _Mindfulness and Meditation Coach_
 _Head of Advisory, Operations_ for the largest UK charity promoting responsible business<br>
 Promoted from _Advisory Services Manager, Strategic Advice & Solutions_ in 06/2014<br>
 
-* Lead on the delivery of advisory services through contextual review, stakeholder interviews, benchmarking, roadmap development, implementation planning and developing decisions making tools.
-* Managed cross-functional delivery teams made of internal and external talents.
-* Areas of focus: integrating sustainability in business, supply chain and reporting, senior leadership engagement, building the case for responsible business and mega-trends.
-* Developed capacity and budget management tools to streamline advisory processes.<br>
+**Key internal projects include:** 
+* Managed the Advisory Services team at the time of human resource constraints. 
+* Developed capacity management tools to ensure appropriate allocation of internal and external human resources to projects. 
+* Undertook scenario planning to create financial projections, best allocation of resources and product mix to maximize revenues and knowledge building. 
+* Participated in strategic review, including reviewing pricing of one of the key BITC service offers, undertaking competitor analysis and clarifying team’s vision and positioning.  
+
+**Key consulting responsibilities include:**
+* Managed cross-functional delivery teams made of internal and external talents. 
+* Took part in business development by scoping out the projects: listening to client's needs, identifying project goals, and developing timeline and deliverables. 
+* Lead on the delivery of advisory services through contextual review, stakeholder interviews, benchmarking, roadmap development, implementation planning and developing decision making tools. 
 
 **Volans, London, UK (05 - 06/2013)**<br>
 _Freelance Consultant_ for social innovation consultancy and think-tank
@@ -87,7 +93,7 @@ _Senior Manager, CSR_ for one of the world’s largest banks
 
 Led on the delivery and impact assessment of the Social Enterprise Development Awards (SEDA):
 *	Project managed the delivery of the programme, including the development of the Gantt chart and managing internal and external stakeholders.
-*	Developed impact assessment framework, including KPIs, and designed supporting processes.
+*	Developed social impact assessment framework, including KPIs, and designed supporting processes.
 *	Created an online platform to collect and analyze the impact data including designing UX and UI, selecting and working with full-stack developers on the delivery.
 
 **Telefónica UK (O2 UK), London, UK (01 - 06/2012)**<br> 
