@@ -131,7 +131,12 @@ _Customer Service Representative_ for FMCG company
 
 ## Education
 
-#### Google Technical Support Fundamentals Certificate (10/20022)
+#### Makers Academy, London, UK (11/2022-current)
+Three week course on fundamentals of Java Programming Language
+
+#### Google Crash Course on Python Certificate (10/2022)
+
+#### Google Technical Support Fundamentals Certificate (10/2022)
 
 #### Makers Academy, London, UK (05/2022-09/2022)
 Full-time software development course:
